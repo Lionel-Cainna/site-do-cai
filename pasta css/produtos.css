@@ -1,3 +1,11 @@
+@font-face {
+    font-family: fontbomb;
+    src: url(aAttackGraffiti.ttf);
+    
+    
+
+  }
+
 *{
     margin: 0;
     padding: 0;
@@ -73,8 +81,9 @@ header{
 }
 
 .Meio h1{
+    font-family: fontbomb;
     font-size: 4rem;
-    color: #bea5d3;
+    color: #662899;
     
 }
 
